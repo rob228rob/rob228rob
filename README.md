@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
    # Привет, я ![Static Badge](https://img.shields.io/badge/rob228rob-violet)
  👋
-   ![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-      ### 🛠️ Технологии и инструменты
+   ![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)   
+   ### 🛠️ Технологии и инструменты
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ## О себе
