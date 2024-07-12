@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 💼 Мои проекты
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding" width="200"/>
-</p>
+
 <table>
   <tr>
     <th>Project</th>
@@ -65,8 +63,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+## 📫 Контакты
+- [Telegram](https://t.me/rob229rob)
+
 <p align="center">
   <img src="https://media.giphy.com
 
-## 📫 Контакты
-- [Telegram](https://t.me/rob229rob)
