@@ -18,8 +18,9 @@ Here are some ideas to get you started:
    # Привет, я ![Static Badge](https://img.shields.io/badge/rob228rob-violet)
  👋
    ![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
- ![Cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Fsearch%3Fq%3D%25D0%25BC%25D0%25B8%25D0%25BB%25D1%258B%25D0%25B9%2B%25D0%25BA%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BA&psig=AOvVaw1_0mh8E-Wd6F1jHQ2d-q6B&ust=1720886829110000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjS9-XxoYcDFQAAAAAdAAAAABAK)
-
+      ### 🛠️ Технологии и инструменты
+   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ## О себе
    Я разработчик, увлеченный созданием качественного кода и интересных проектов. Мои основные языки программирования - С++ и Java.
 
