@@ -18,29 +18,55 @@ Here are some ideas to get you started:
 
 ### 🛠️ Технологии и инструменты
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/ios-filled/50/FF6F00/api.png" alt="REST API"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+</p>
 
 ### 📈 Статистика GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rob228rob&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rob228rob&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
 ### 💼 Мои проекты
-| Project | Description |
-| --- | --- |
-| [DI-IOC_Implementation](https://github.com/rob228rob/DI-IOC_Implementation) | Собственная реализация ApplicationContext и аннотаций, похожих на Spring. |
-| [UserPrivilegeChecker](https://github.com/rob228rob/UserPrivilegeChecker) | Проект на JavaScript для проверки привилегий пользователей. |
-| [ProductsRESTfulAPI](https://github.com/rob228rob/ProductsRESTfulAPI) | REST API на Java для управления продуктами. |
-| [mp_os](https://github.com/rob228rob/mp_os) | Форк проекта на C++ для операционных систем. |
-| [RequestSender](https://github.com/rob228rob/RequestSender) | Java проект отправки запросов. |
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding" width="200"/>
+</p>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rob228rob/DI-IOC_Implementation">DI-IOC_Implementation</a></td>
+    <td>Собственная реализация ApplicationContext и аннотаций, похожих на Spring.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rob228rob/UserPrivilegeChecker">UserPrivilegeChecker</a></td>
+    <td>Проект на JavaScript для проверки привилегий пользователей.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rob228rob/ProductsRESTfulAPI">ProductsRESTfulAPI</a></td>
+    <td>REST API на Java для управления продуктами.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rob228rob/mp_os">mp_os</a></td>
+    <td>Форк проекта на C++ для операционных систем.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rob228rob/RequestSender">RequestSender</a></td>
+    <td>Java проект отправки запросов.</td>
+  </tr>
+</table>
 
-![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-![Developer](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com
 
 ## 📫 Контакты
 - [Telegram](https://t.me/rob229rob)
