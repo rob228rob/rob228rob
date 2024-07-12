@@ -86,11 +86,6 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 
 ## 📫 Contact
 - [Telegram](https://t.me/rob229rob)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YOUR_GIPHY_URL" alt="GitHub Fun"/>
-</p>
-
 ---
 
 ### ⚡ Fun Fact
