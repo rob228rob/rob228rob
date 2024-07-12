@@ -12,12 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌟 Welcome to my GitHub! 🌟
 
-## 🚀 О себе
-Я разработчик, увлеченный созданием качественного кода и интересных проектов. Мои основные языки программирования - Java и C++.
+My name is **rob228rob**, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions. If you're looking for powerful projects in Java and C++, you've come to the right place!
 
-### 🛠️ Технологии и инструменты
+---
 
+## 🚀 About Me
+### ✨ Who am I?
+I am a programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java and C++, and I am always open to new challenges and learning opportunities.
+
+I am also a 3rd-year student at Moscow Aviation Institute, studying in the Faculty of Computer Science.
+
+### 🌟 What do I do?
+- 🔭 Currently working on several interesting projects, which you can learn about below.
+- 🌱 Constantly learning new technologies and approaches to stay at the cutting edge of progress.
+- 👯 Seeking opportunities for collaboration on both open and closed projects.
+- 💬 Always ready to discuss interesting ideas and offer advice.
+
+---
+
+## 🛠️ Technologies and Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
@@ -29,13 +44,17 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
 </p>
 
-### 📈 Статистика GitHub
+---
+
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rob228rob&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-### 💼 Мои проекты
+---
 
+## 💼 My Projects
+### 🚀 Featured Projects
 <table>
   <tr>
     <th>Project</th>
@@ -43,29 +62,43 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><a href="https://github.com/rob228rob/DI-IOC_Implementation">DI-IOC_Implementation</a></td>
-    <td>Собственная реализация ApplicationContext и аннотаций, похожих на Spring.</td>
+    <td>Custom implementation of ApplicationContext and annotations similar to Spring.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/rob228rob/UserPrivilegeChecker">UserPrivilegeChecker</a></td>
-    <td>Проект на JavaScript для проверки привилегий пользователей.</td>
+    <td>A JavaScript project for checking user privileges.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/rob228rob/ProductsRESTfulAPI">ProductsRESTfulAPI</a></td>
-    <td>REST API на Java для управления продуктами.</td>
+    <td>A Java REST API for managing products.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/rob228rob/mp_os">mp_os</a></td>
-    <td>Форк проекта на C++ для операционных систем.</td>
+    <td>A fork of a C++ project for operating systems.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/rob228rob/RequestSender">RequestSender</a></td>
-    <td>Java проект отправки запросов.</td>
+    <td>A Java project for sending requests.</td>
   </tr>
 </table>
 
-## 📫 Контакты
+---
+
+## 📫 Contact
 - [Telegram](https://t.me/rob229rob)
 
 <p align="center">
-  <img src="https://media.giphy.com
+  <img src="https://media.giphy.com/media/YOUR_GIPHY_URL" alt="GitHub Fun"/>
+</p>
 
+---
+
+### ⚡ Fun Fact
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I can write code even in my sleep!
+
+---
+
+**rob228rob** - Your reliable partner in the programming world. Let's create the future together!
+
+---
