@@ -25,7 +25,7 @@ I am a programmer dedicated to crafting high-quality and efficient code. I lever
 I am also a 3rd-year student at Moscow Aviation Institute, studying in the Faculty of Computer Science.
 
 ### 🌟 What do I do?
-- 🔭 Currently working on several interesting projects, which you can learn about below.
+- 🔭 Currently working on several own projects, which you can learn about below.
 - 🌱 Constantly learning new technologies and approaches to stay at the cutting edge of progress.
 - 👯 Seeking opportunities for collaboration on both open and closed projects.
 - 💬 Always ready to discuss interesting ideas and offer advice.
@@ -48,9 +48,9 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rob228rob&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rob228rob&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rob228rob&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </p>
-
 ---
 
 ## 💼 My Projects
