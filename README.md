@@ -20,7 +20,7 @@ My name is **rob228rob**, and I am a developer with an unyielding passion for cr
 
 ## 🚀 About Me
 ### ✨ Who am I?
-I am a programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java and C++, and I am always open to new challenges and learning opportunities.
+I am a 19 y.o. programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java and C++, and I am always open to new challenges and learning opportunities.
 
 I am also a 3rd-year student at Moscow Aviation Institute, studying in the Faculty of Computer Science.
 
@@ -77,8 +77,8 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
     <td>A fork of a C++ project for operating systems.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rob228rob/RequestSender">RequestSender</a></td>
-    <td>A Java project for sending requests.</td>
+    <td><a href="https://github.com/rob228rob/ChargingScooter">ChargingScooter</a></td>
+    <td>A Java project for solving problem with finding the most efficient route between scooters and charging stations.</td>
   </tr>
 </table>
 
