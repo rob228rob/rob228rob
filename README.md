@@ -46,7 +46,7 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Public Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rob228rob&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rob228rob&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
