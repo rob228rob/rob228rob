@@ -77,7 +77,7 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
     <td>A fork of a C++ project for operating systems.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/rob228rob/ChargingScooterProblem">ChargingScooter</a></td>
+    <td><a href="https://github.com/rob228rob/ChargingScootersProblem">ChargingScooter</a></td>
     <td>A Java project for solving problem with finding the most efficient route between scooters and charging stations.</td>
   </tr>
 </table>
