@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 🌟 Welcome to my GitHub! 🌟
 
-My name is **rob228rob**, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions. If you're looking for powerful projects in Java and C++, you've come to the right place!
+My name is **Robert**, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions. If you're looking for powerful projects in Java and C++, you've come to the right place!
 
 ---
 
