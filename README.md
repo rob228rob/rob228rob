@@ -56,17 +56,18 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 ## 💼 My Projects
 ### 🚀 Featured Projects
 <table>
-    <tr>
-    <td><a href="https://github.com/rob228rob/ChargingScootersProblem">ChargingScooter</a></td>
-    <td>A Java project for solving problem with finding the most efficient route between scooters and charging stations.</td>
-  </tr>
   <tr>
     <th>Project</th>
     <th>Description</th>
   </tr>
+  
+  <tr>
+    <td><a href="https://github.com/rob228rob/ChargingScootersProblem">ChargingScooter</a></td>
+    <td>A Java project for solving problem with finding the most efficient route between scooters and charging stations.</td>
+  </tr>
     <tr>
-    <td><a href="https://github.com/rob228rob/cw_os">Own Database</a></td>
-    <td>A C++ project database with B-tree data structure, 2 modes data storing: in-mem/filesyst and other features.</td>
+    <td><a href="https://github.com/rob228rob/cw_os">B-tree Database</a></td>
+    <td>A C++ project database with B-tree data structure, 2 modes data storing: in-mem/filesyst, several levels of data abstractions and other features.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/rob228rob/mp_os">mp_os</a></td>
