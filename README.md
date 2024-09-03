@@ -60,7 +60,12 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
     <th>Project</th>
     <th>Description</th>
   </tr>
-  
+
+
+    <tr>
+    <td><a href="https://github.com/rob228rob/TeacherAssistant">Students Managment System</a></td>
+    <td>A The Student Management System is a comprehensive platform designed to streamline the management of student information, lesson scheduling, and payment tracking. The application provides an intuitive interface for administrators and educators to handle various aspects of student management efficiently. Key features include user authentication, student registration, lesson scheduling, and payment management.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/rob228rob/ChargingScootersProblem">ChargingScooter</a></td>
     <td>A Java project for solving problem with finding the most efficient route between scooters and charging stations.</td>
