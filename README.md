@@ -32,6 +32,9 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rob228rob&langs_count=8&theme=dark&layout=compact)
 
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=rob228rob&repo=TeacherAssistant)
+
+
 ## 🛠️ Technologies and Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
