@@ -102,6 +102,7 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rob228rob&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Profile Contributions](https://github-contributions.vercel.app/api/v1/rob228rob)](https://github.com/rob228rob)
 
 ---
 
