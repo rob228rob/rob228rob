@@ -102,10 +102,6 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rob228rob&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rob228rob)](https://wakatime.com)
 
----
+Your reliable partner in the programming world. Let's create the future together!
 
-**rob228rob** - Your reliable partner in the programming world. Let's create the future together!
-
----
