@@ -30,7 +30,7 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 - 👯 Seeking opportunities for collaboration on both open and closed projects.
 - 💬 Always ready to discuss interesting ideas and offer advice.
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rob228rob&langs_count=8&theme=dark&layout=compact)
 
 ## 🛠️ Technologies and Tools
 <p align="center">
