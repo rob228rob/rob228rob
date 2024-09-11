@@ -100,6 +100,9 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I can write code even in my sleep!
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rob228rob&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ---
 
 **rob228rob** - Your reliable partner in the programming world. Let's create the future together!
