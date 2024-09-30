@@ -20,7 +20,7 @@ My name is **Robert**, and I am a developer with an unyielding passion for creat
 
 ## 🚀 About Me
 ### ✨ Who am I?
-I am a 19 y.o. programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java and C++, and I am always open to new challenges and learning opportunities.
+I am a 20 y.o. programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java and C++, and I am always open to new challenges and learning opportunities.
 
 I am also a 3rd-year student at Moscow Aviation Institute, studying in the Faculty of Computer Science.
 
