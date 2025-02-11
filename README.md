@@ -40,14 +40,12 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka"/>
+  <img src="https://img.icons8.com/color/2x/rabbit" alt="Rabbit"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/ios-filled/50/FF6F00/api.png" alt="REST API"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/red-hat.png" alt="AMQ"/> <!-- AMQ (используем Red Hat) -->
-  <img src="https://infinispan.org/assets/images/infinispan_icon_rgb_transparent_64px.png" alt="Infinispan"/> <!-- Infinispan -->
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/> <!-- Kubernetes -->
-  <img src="https://deckhouse.io/images/logo/deckhouse.svg" alt="DeckHouse" width="48" height="48"/> <!-- DeckHouse -->
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/> <!-- Jenkins -->
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/> <!-- Jira -->
 
