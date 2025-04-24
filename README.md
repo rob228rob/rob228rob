@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 -->
 ### 🌟 Welcome to my GitHub! 🌟
 
-My name is **Robert**, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions. If you're looking for powerful projects in Java and C++, you've come to the right place!
+My name is **Robert B**, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions. If you're looking for powerful projects in Java, SpringBoot, Camel, RSQL, noSQL, Kafka/brokers, you've come to the right place!
 
 ---
 
 ## 🚀 About Me
-### ✨ Who am I?
-I am a 20 y.o. programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java and C++, and I am always open to new challenges and learning opportunities.
-
-I am also a 3rd-year student at Moscow Aviation Institute, studying in the Faculty of Computer Science.
+I am a programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java17/21, and I am always open to new challenges and learning opportunities.
 
 ### 🌟 What do I do?
 - 🔭 Currently working in GPN, Enterprise agile team.
