@@ -25,7 +25,7 @@ I am a 20 y.o. programmer dedicated to crafting high-quality and efficient code.
 I am also a 3rd-year student at Moscow Aviation Institute, studying in the Faculty of Computer Science.
 
 ### 🌟 What do I do?
-- 🔭 Currently working on several own projects, which you can learn about below.
+- 🔭 Currently working in GPN, Enterprise agile team.
 - 🌱 Constantly learning new technologies and approaches to stay at the cutting edge of progress.
 - 👯 Seeking opportunities for collaboration on both open and closed projects.
 - 💬 Always ready to discuss interesting ideas and offer advice.
@@ -60,42 +60,6 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 </p>
 ---
 
-## 💼 My Projects
-### 🚀 Featured Projects
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rob228rob/ChargingScootersProblem">ChargingScooter</a></td>
-    <td>A Java project for solving problem with finding the most efficient route between scooters and charging stations.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rob228rob/TeacherAssistant">Students Managment System</a></td>
-    <td>A The Student Management System is a comprehensive platform designed to streamline the management of student information, lesson scheduling, and payment tracking. The application provides an intuitive interface for administrators and educators to handle various aspects of student management efficiently. Key features include user authentication, student registration, lesson scheduling, and payment management.</td>
-  </tr>
-    <tr>
-    <td><a href="https://github.com/rob228rob/cw_os">B-tree Database</a></td>
-    <td>A C++ project database with B-tree data structure, 2 modes data storing: in-mem/filesyst, several levels of data abstractions and other features.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rob228rob/mp_os">mp_os</a></td>
-    <td>A fork of a C++ project for operating systems and math practical labs.</td>
-  </tr>
-  <tr>
-      <tr>
-    <td><a href="https://github.com/rob228rob/DI-IOC_Implementation">DI-IOC_Implementation</a></td>
-    <td>Custom implementation of ApplicationContext and annotations similar to Spring.</td>
-  </tr>
-    <td><a href="https://github.com/rob228rob/UserPrivilegeChecker">UserPrivilegeChecker</a></td>
-    <td>A JavaScript project for checking user privileges.</td>
-  </tr>
-  
-</table>
-
----
-
 ## 📫 Contact
 - [Telegram](https://t.me/rob229rob)
 ---
@@ -106,6 +70,4 @@ I am also a 3rd-year student at Moscow Aviation Institute, studying in the Facul
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rob228rob&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-Your reliable partner in the programming world. Let's create the future together!
 
