@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 -->
 ### 🌟 Welcome to my GitHub! 🌟
 
-My name is **Robert B**, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions. If you're looking for powerful projects in Java, SpringBoot, Camel, RSQL, noSQL, Kafka/brokers, you've come to the right place!
+Меня зовут Батоян Роберт. 
+
+
+My name is **Robert B**, and I am a developer with an unyielding passion for creating top-notch code and innovative solutions. If you're looking for powerful projects in Java, Go, Python, Guice, SpringBoot, RSQL, noSQL, Kafka/brokers, Red is etc. You've come to the right place!
 
 ---
 
 ## 🚀 About Me
-I am a programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java17/21, and I am always open to new challenges and learning opportunities.
+I am a programmer dedicated to crafting high-quality and efficient code. I leverage modern approaches and technologies in my work to create projects that deliver real value. My primary programming languages are Java/Go, and I am always open to new challenges and learning opportunities.
 
 ### 🌟 What do I do?
 - 🔭 Currently working in GPN, Enterprise agile team.
